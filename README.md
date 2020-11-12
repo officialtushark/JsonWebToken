@@ -58,9 +58,9 @@ Role Table: Used to store various roles applicable for our application
 					---------------------
 					| id | role          |
 					|----|---------------|
-					|1	  |ROLE_ADMIN    |
-					|2	  |ROLE_MODERATOR|
-					|3	  |ROLE_USER     |
+					|1   |ROLE_ADMIN     |
+					|2   |ROLE_MODERATO  |
+					|3   |ROLE_USER      |
 					 --------------------
 					
 user_role Table: Used to store the relationship between the user and the role. This table is created to store the many-to-many relationship between user and role.
